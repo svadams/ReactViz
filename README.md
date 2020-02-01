@@ -1,2 +1,0 @@
-# ReactViz
-Created with CodeSandbox
